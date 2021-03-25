@@ -28,4 +28,4 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-URL: 
+URL: https://pgurung95.github.io/HW_5_Work_Day_Scheduler/
